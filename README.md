@@ -1,6 +1,6 @@
-"Leone_FootBall_agency"
-Leone Football Agency Management System
-Project Overview
+**Leone Football Agency Management System
+**
+**Project Overview**
 Leone Football Agency is a comprehensive management system for a football agency based in Sierra Leone. The system connects Sierra Leonean football talent with global opportunities through a multi-user platform for players, agents, and club managers.
 
 System Architecture
